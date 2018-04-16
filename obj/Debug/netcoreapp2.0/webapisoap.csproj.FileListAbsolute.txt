@@ -1,0 +1,10 @@
+c:\DEV\webapisoap\webapisoap\bin\Debug\netcoreapp2.0\webapisoap.deps.json
+c:\DEV\webapisoap\webapisoap\bin\Debug\netcoreapp2.0\webapisoap.runtimeconfig.json
+c:\DEV\webapisoap\webapisoap\bin\Debug\netcoreapp2.0\webapisoap.runtimeconfig.dev.json
+c:\DEV\webapisoap\webapisoap\bin\Debug\netcoreapp2.0\webapisoap.dll
+c:\DEV\webapisoap\webapisoap\bin\Debug\netcoreapp2.0\webapisoap.pdb
+c:\DEV\webapisoap\webapisoap\obj\Debug\netcoreapp2.0\webapisoap.csproj.CoreCompileInputs.cache
+c:\DEV\webapisoap\webapisoap\obj\Debug\netcoreapp2.0\webapisoap.AssemblyInfoInputs.cache
+c:\DEV\webapisoap\webapisoap\obj\Debug\netcoreapp2.0\webapisoap.AssemblyInfo.cs
+c:\DEV\webapisoap\webapisoap\obj\Debug\netcoreapp2.0\webapisoap.dll
+c:\DEV\webapisoap\webapisoap\obj\Debug\netcoreapp2.0\webapisoap.pdb
